@@ -1,7 +1,8 @@
 x.y.z Release notes (yyyy-MM-dd)
 =============================================================
 ### Enhancements
-* None.
+* Add Codable conformance to RealmOptional and List, and Encodable conformance to Results.
+  ([PR #6172](https://github.com/realm/realm-cocoa/pull/6172)).
 
 ### Fixed
 * <How to hit and notice issue? what was the impact?> ([#????](https://github.com/realm/realm-js/issues/????), since v?.?.?)
